@@ -16,10 +16,10 @@ The servos are powered by the Arduino's 5V and GND. The signal pins for the four
 *   🟢 **Servo 3:** Pin 6 
 *   🟢 **Servo 4:** Pin 9 
 
-### Breadboard Layout
+### 🔌 Breadboard Layout
 ![Breadboard Wiring](images/schematic.png)
 
-### Electronic Schematic
+### 📐 Electronic Schematic
 ![Electronic Schematic](images/Breadboard-wiring.png)
 
 ## 💻 Code Behavior
