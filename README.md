@@ -41,8 +41,9 @@ The control flow operates in three distinct steps:
 ├── README.md                     # The documentation
 ├── multi-servo-controller.ino    # Main Arduino sketch code
 ├── multi-servo-controller.brd    # Eagle board design file
-├── schematic.png                 # Electronic schematic image
-└── Breadboard-wiring.png         # Breadboard wiring layout image
+└── images/
+    ├── schematic.png                 # Electronic schematic image
+    └── Breadboard-wiring.png         # Breadboard wiring layout image
 ```
 ## 🧑‍💻 Author
 **Yazid Alasidi**
